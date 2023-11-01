@@ -5,4 +5,4 @@ ObeSol is designed by a web app and deployed using Streamlit so that the user ca
 enter his details and predict the obesity level. 
 The main aim of the work is to accurately identify whether a patient has obesity and at what level at early stage.
 # Instructions how to run the Wep App
-1-You can run the file main.py (streamlit run main.py).
+You can run the file main.py (streamlit run main.py).
